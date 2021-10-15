@@ -1,0 +1,1 @@
+health 10 armor 16 attack 18 mana 100 level 0 

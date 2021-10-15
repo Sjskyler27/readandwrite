@@ -1,0 +1,1 @@
+health 22 armor 999 attack 9999 mana 666 
